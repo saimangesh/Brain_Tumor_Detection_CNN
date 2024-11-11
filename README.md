@@ -41,6 +41,7 @@ The project focuses on using MRI images to train a CNN model that classifies sca
 - **Metrics**: Accuracy, precision, recall, and F1-score were used for performance evaluation.
 
 ## 📈 Results
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/fb2fbdc5-c84b-430d-bda3-90a35c6b5409">
 
 The CNN model successfully classified brain MRI scans with notable accuracy. Below are key takeaways from the model's performance:
 
